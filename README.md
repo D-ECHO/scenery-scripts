@@ -14,6 +14,6 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 This repository contains the scripts to split and decode landcover data for use in FlightGear (terragear) scenery generation process.
 
-Sources for the data (so that it will fit the scripts) are:
-	*CORINE 2018 https://land.copernicus.eu/pan-european/corine-land-cover/clc2018?tab=download ( login required, use "ESRI Geodatabase" )
-	*OSM extracts: http://download.geofabrik.de/index.html ( use the .shp.zip file for the desired area, unzip it)
+Sources for the data (so that it will fit the scripts) are: 
+* CORINE 2018 https://land.copernicus.eu/pan-european/corine-land-cover/clc2018?tab=download ( login required, use "ESRI Geodatabase" )
+* OSM extracts: http://download.geofabrik.de/index.html ( use the .shp.zip file for the desired area, unzip it)
